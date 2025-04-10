@@ -10,7 +10,7 @@
 # 1. Save this script as pi_ip_automated.py on your Raspberry Pi.
 # 2. Make sure you have Python 3 and the required libraries installed.
 #    You can install the required libraries using pip as follows:
-# pip install requests netifaces
+# pip3 install requests netifaces
 
 # 3. Make the script executable  as follows:
 # chmod +x pi_ip_automatedV2.py
